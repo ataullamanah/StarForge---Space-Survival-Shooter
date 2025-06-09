@@ -48,7 +48,7 @@ We welcome contributions! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 - Sound effects and music
 
 ## Sponsorship
-Love StarForge? Support the project via [GitHub Sponsors](https://github.com/sponsors/yourusername) to help fund development and new features!
+Love StarForge? Support the project via [GitHub Sponsors](https://github.com/sponsors/ataullamanah) to help fund development and new features!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
